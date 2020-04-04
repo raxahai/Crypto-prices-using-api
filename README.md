@@ -7,3 +7,5 @@ _This is a fundamental practice project that i did to enhance my skills in using
 **I AM CURRENTLY IMPROVING THIS PROJECT**
 
 In order to check out and run this project, Use the following below command:
+
+![alt text](https://raw.githubusercontent.com/raxahai/Crypto-prices-using-api/tree/master/images/pic.png)
