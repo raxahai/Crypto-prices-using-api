@@ -7,5 +7,3 @@ _This is a fundamental practice project that i did to enhance my skills in using
 **I AM CURRENTLY IMPROVING THIS PROJECT**
 
 In order to check out and run this project, Use the following below command:
-
-![](C:\Users\Raza Haider\Pictures\Screenshots\Screenshot (1).png)
